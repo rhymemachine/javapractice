@@ -1,0 +1,3 @@
+pack
+public class HelloWorld {
+}
